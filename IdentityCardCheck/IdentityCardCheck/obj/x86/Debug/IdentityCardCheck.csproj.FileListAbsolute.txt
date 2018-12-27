@@ -1,0 +1,8 @@
+D:\99-Work\98-系统分析\B-身份证号验证工具\B-身份证号验证工具\A-源文件\IdentityCardCheck\IdentityCardCheck\bin\Debug\IdentityCardCheck.exe
+D:\99-Work\98-系统分析\B-身份证号验证工具\B-身份证号验证工具\A-源文件\IdentityCardCheck\IdentityCardCheck\bin\Debug\IdentityCardCheck.pdb
+D:\99-Work\98-系统分析\B-身份证号验证工具\B-身份证号验证工具\A-源文件\IdentityCardCheck\IdentityCardCheck\obj\x86\Debug\IdentityCardCheck.csprojResolveAssemblyReference.cache
+D:\99-Work\98-系统分析\B-身份证号验证工具\B-身份证号验证工具\A-源文件\IdentityCardCheck\IdentityCardCheck\obj\x86\Debug\IdentityCardCheck.frmMain.resources
+D:\99-Work\98-系统分析\B-身份证号验证工具\B-身份证号验证工具\A-源文件\IdentityCardCheck\IdentityCardCheck\obj\x86\Debug\IdentityCardCheck.Properties.Resources.resources
+D:\99-Work\98-系统分析\B-身份证号验证工具\B-身份证号验证工具\A-源文件\IdentityCardCheck\IdentityCardCheck\obj\x86\Debug\IdentityCardCheck.csproj.GenerateResource.Cache
+D:\99-Work\98-系统分析\B-身份证号验证工具\B-身份证号验证工具\A-源文件\IdentityCardCheck\IdentityCardCheck\obj\x86\Debug\IdentityCardCheck.exe
+D:\99-Work\98-系统分析\B-身份证号验证工具\B-身份证号验证工具\A-源文件\IdentityCardCheck\IdentityCardCheck\obj\x86\Debug\IdentityCardCheck.pdb
